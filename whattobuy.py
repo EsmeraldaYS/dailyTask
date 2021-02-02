@@ -1,5 +1,5 @@
 # coding=utf-8
-import requests
+import requests,os
 import json
 
 # 设置Server酱post地址 不需要可以删除
